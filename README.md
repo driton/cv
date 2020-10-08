@@ -17,7 +17,6 @@ My CV
 **English**: Fluent
 
 ## Career Profile
-Software Engineer | (Sep 2020 - Dec 2014) 
+ | Kutia
 ------------ | -------------
-Content from cell 1 | Content from cell 2
- | **Kutia**
+Software Engineer | (Sep 2020 - Dec 2014)
