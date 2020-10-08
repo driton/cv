@@ -4,7 +4,7 @@ My CV
 ## Personal details
 **Name**: Driton
 
-**Surname**: Driton
+**Surname**: Haxhiu
 
 ### Education
 **Middle School**: Gimnasium for Natyral and Mathematical Sciences
@@ -17,6 +17,10 @@ My CV
 **English**: Fluent
 
 ## Career Profile
-Software Engineer | Kutia
------------- | -------------
-  | (Sep 2020 - Dec 2014)
+### Kutia
+(01 sep. 2019)
+Software Engineer
+
+### Oprime
+(01 sep. 2019)
+Software Developer
